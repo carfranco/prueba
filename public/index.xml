@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prueba Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Prueba Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 28 Aug 2022 12:09:05 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Sun, 28 Aug 2022 12:09:05 -0300</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>Post 2
+otro post de hugo</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>http://example.org/posts/post1/</link>
+      <pubDate>Sun, 28 Aug 2022 12:08:57 -0300</pubDate>
+      
+      <guid>http://example.org/posts/post1/</guid>
+      <description>Post1
+Post para poner informacion &amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Sun, 28 Aug 2022 11:47:34 -0300</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Este sitio creado por Hugo (es asi)
+Es seguro, rapido y versatil
+Que ventajas tiene:
+Rapido Tipado Hecho en golang Estatico </description>
+    </item>
+    
+  </channel>
+</rss>
